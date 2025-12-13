@@ -1,0 +1,2 @@
+# Benchmarking-Physics-Informed-vs.-Foundation-Models-for-Cenozoic-Paleobiology
+Benchmarks Physics-Informed Neural ODEs vs. Fine-Tuned Foundation Models (Chronos) on Cenozoic fossil data. Includes a Random Forest analysis of the Lilliput Effect to test climate vs. taphonomy drivers. Results show Neural ODEs outperform generic Transformers (MSE 13.05) in reconstructing deep-time evolutionary history.

